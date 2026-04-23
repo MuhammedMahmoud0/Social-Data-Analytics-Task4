@@ -11,7 +11,7 @@ stop = set(stopwords.words("english"))
 
 sym_spell = SymSpell(max_dictionary_edit_distance=2, prefix_length=7)
 
-dictionary_path = Path(__file__).resolve().parents[2] / "data" / "lexicons" / "en-80k.txt"
+dictionary_path = Path(__file__).resolve().parents[2] / "en-80k.txt"
 sym_spell.load_dictionary(str(dictionary_path), term_index=0, count_index=1)
 
 

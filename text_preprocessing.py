@@ -160,6 +160,8 @@ def main():
     #     lambda x: extract_tags(x)[1] if args.extract_tags else []
     # )
 
+    df = df[~df["cleaned_review"].isna() & (df["cleaned_review"].str.strip() != "")]
+
     df.to_csv(args.output, index=False)
 
     print("Preprocessing completed.")
