@@ -12,8 +12,8 @@ from pydantic import BaseModel, Field
 from src.preprocessing.deployment_tfidf_preprocessing import preprocess_text
 
 
-DEFAULT_MODEL_PATH = Path("model/linear_regression_tfidf_cleaned.pkl")
-DEFAULT_VECTORIZER_PATH = Path("model/tfidf_all_steps_vectorizer.pkl")
+DEFAULT_MODEL_PATH = Path("model/SVM_tfidf_cleaned.pkl")
+DEFAULT_VECTORIZER_PATH = Path("model/text_representation_cleaned_tfidf_vectorizer.pkl")
 LABEL_ORDER = ("positive", "negative", "neutral")
 
 
@@ -78,7 +78,9 @@ def _normalize_probabilities(label_probs: dict[str, float]) -> dict[str, float]:
     return {label: probs[label] / total for label in LABEL_ORDER}
 
 
-def _to_prediction(label_probs: dict[str, float]) -> tuple[str, float, dict[str, float]]:
+def _to_prediction(
+    label_probs: dict[str, float],
+) -> tuple[str, float, dict[str, float]]:
     normalized = _normalize_probabilities(label_probs)
     sentiment = max(normalized, key=normalized.get)
     confidence = float(normalized[sentiment])
@@ -91,7 +93,9 @@ def _probabilities_from_numeric_score(score: float) -> dict[str, float]:
         "neutral": 0.0,
         "positive": 1.0,
     }
-    logits = np.array([-abs(score - centers[label]) for label in ("positive", "negative", "neutral")])
+    logits = np.array(
+        [-abs(score - centers[label]) for label in ("positive", "negative", "neutral")]
+    )
     probs = _softmax(logits)
     return {
         "positive": float(probs[0]),
@@ -111,7 +115,9 @@ class SentimentService:
         if not self.model_path.exists():
             raise FileNotFoundError(f"Model file not found: {self.model_path}")
         if not self.vectorizer_path.exists():
-            raise FileNotFoundError(f"Vectorizer file not found: {self.vectorizer_path}")
+            raise FileNotFoundError(
+                f"Vectorizer file not found: {self.vectorizer_path}"
+            )
 
         with self.model_path.open("rb") as f:
             self.model = pickle.load(f)
@@ -120,7 +126,9 @@ class SentimentService:
             self.vectorizer = pickle.load(f)
 
         if hasattr(self.model, "n_features_in_"):
-            vectorized_shape = self.vectorizer.transform(["compatibility check"]).shape[1]
+            vectorized_shape = self.vectorizer.transform(["compatibility check"]).shape[
+                1
+            ]
             expected_shape = int(self.model.n_features_in_)
             if vectorized_shape != expected_shape:
                 raise ValueError(
