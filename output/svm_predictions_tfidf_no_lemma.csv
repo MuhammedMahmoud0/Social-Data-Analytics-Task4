@@ -1,1250 +1,1250 @@
-sentiment,svm_pred
-positive,positive
-neutral,positive
-negative,negative
-neutral,positive
-neutral,neutral
-negative,negative
-negative,negative
-positive,negative
-positive,neutral
-neutral,neutral
-positive,positive
-neutral,negative
-negative,negative
-neutral,neutral
-positive,positive
-neutral,neutral
-negative,negative
-positive,positive
-neutral,neutral
-neutral,negative
-neutral,neutral
-positive,positive
-positive,neutral
-negative,neutral
-neutral,positive
-negative,negative
-negative,negative
-negative,neutral
-negative,negative
-negative,negative
-positive,positive
-negative,negative
-neutral,positive
-negative,negative
-negative,negative
-negative,negative
-neutral,neutral
-negative,negative
-neutral,negative
-positive,positive
-negative,negative
-negative,neutral
-neutral,negative
-negative,negative
-positive,positive
-negative,neutral
-negative,negative
-positive,neutral
-negative,positive
-neutral,neutral
-negative,negative
-positive,positive
-neutral,positive
-neutral,neutral
-positive,positive
-neutral,neutral
-positive,positive
-positive,positive
-negative,positive
-neutral,negative
-positive,positive
-negative,negative
-positive,positive
-positive,positive
-positive,positive
-positive,negative
-neutral,neutral
-positive,neutral
-positive,neutral
-negative,positive
-neutral,positive
-negative,negative
-negative,neutral
-positive,positive
-neutral,neutral
-neutral,neutral
-negative,neutral
-positive,positive
-neutral,negative
-negative,neutral
-neutral,neutral
-negative,positive
-negative,negative
-neutral,neutral
-negative,negative
-positive,positive
-negative,negative
-negative,neutral
-neutral,neutral
-negative,negative
-neutral,negative
-neutral,neutral
-positive,positive
-neutral,negative
-neutral,neutral
-negative,negative
-positive,neutral
-negative,negative
-neutral,positive
-neutral,neutral
-positive,positive
-positive,positive
-neutral,neutral
-positive,positive
-negative,negative
-positive,positive
-negative,positive
-neutral,neutral
-positive,neutral
-neutral,neutral
-positive,neutral
-neutral,neutral
-neutral,neutral
-positive,positive
-positive,positive
-positive,neutral
-positive,positive
-positive,positive
-negative,negative
-neutral,negative
-neutral,positive
-positive,neutral
-negative,negative
-positive,positive
-neutral,neutral
-positive,positive
-negative,neutral
-negative,negative
-positive,positive
-positive,positive
-negative,negative
-neutral,negative
-neutral,positive
-negative,negative
-negative,negative
-neutral,neutral
-neutral,positive
-negative,neutral
-positive,positive
-negative,negative
-positive,positive
-positive,neutral
-negative,negative
-positive,positive
-negative,negative
-negative,negative
-neutral,neutral
-positive,positive
-negative,negative
-negative,negative
-neutral,neutral
-negative,negative
-positive,positive
-neutral,neutral
-neutral,neutral
-neutral,neutral
-negative,negative
-positive,negative
-negative,neutral
-neutral,positive
-negative,negative
-negative,negative
-positive,negative
-positive,positive
-negative,negative
-positive,positive
-neutral,neutral
-negative,negative
-neutral,neutral
-positive,positive
-positive,positive
-negative,negative
-positive,positive
-neutral,neutral
-positive,positive
-neutral,neutral
-neutral,neutral
-negative,negative
-neutral,neutral
-neutral,neutral
-neutral,positive
-positive,positive
-neutral,negative
-neutral,neutral
-positive,positive
-negative,neutral
-negative,negative
-neutral,neutral
-negative,neutral
-neutral,negative
-neutral,neutral
-neutral,neutral
-neutral,negative
-negative,neutral
-negative,negative
-neutral,neutral
-positive,positive
-positive,positive
-positive,positive
-neutral,negative
-negative,neutral
-neutral,negative
-neutral,negative
-positive,neutral
-positive,positive
-positive,positive
-neutral,neutral
-negative,negative
-negative,negative
-neutral,neutral
-negative,negative
-positive,positive
-negative,negative
-negative,neutral
-positive,neutral
-neutral,positive
-neutral,neutral
-neutral,neutral
-negative,negative
-positive,positive
-positive,positive
-negative,negative
-neutral,neutral
-positive,positive
-negative,neutral
-neutral,neutral
-negative,negative
-negative,negative
-negative,negative
-neutral,neutral
-neutral,neutral
-negative,negative
-neutral,neutral
-negative,negative
-negative,negative
-neutral,neutral
-neutral,neutral
-negative,negative
-negative,negative
-positive,positive
-neutral,neutral
-positive,positive
-neutral,neutral
-positive,positive
-negative,neutral
-negative,negative
-negative,neutral
-neutral,negative
-negative,negative
-negative,negative
-negative,neutral
-positive,neutral
-positive,positive
-positive,positive
-negative,negative
-positive,positive
-neutral,neutral
-negative,negative
-positive,positive
-positive,neutral
-negative,negative
-negative,negative
-neutral,neutral
-positive,negative
-negative,negative
-positive,negative
-neutral,neutral
-neutral,negative
-neutral,positive
-neutral,negative
-neutral,neutral
-neutral,positive
-neutral,neutral
-positive,positive
-negative,negative
-positive,neutral
-neutral,negative
-positive,positive
-negative,negative
-positive,positive
-negative,negative
-negative,negative
-positive,positive
-neutral,neutral
-negative,neutral
-neutral,negative
-positive,positive
-negative,negative
-neutral,neutral
-neutral,neutral
-neutral,neutral
-negative,negative
-positive,positive
-negative,negative
-positive,positive
-positive,neutral
-positive,positive
-positive,neutral
-negative,negative
-negative,neutral
-positive,neutral
-negative,negative
-positive,negative
-positive,neutral
-positive,positive
-neutral,negative
-negative,negative
-positive,positive
-negative,negative
-positive,neutral
-positive,positive
-positive,neutral
-neutral,neutral
-neutral,neutral
-positive,positive
-neutral,negative
-negative,negative
-negative,negative
-positive,positive
-positive,positive
-neutral,positive
-negative,negative
-positive,neutral
-positive,positive
-neutral,neutral
-neutral,positive
-negative,neutral
-neutral,neutral
-negative,neutral
-negative,negative
-negative,negative
-negative,negative
-positive,positive
-positive,negative
-positive,positive
-neutral,neutral
-negative,negative
-neutral,neutral
-neutral,neutral
-neutral,negative
-positive,positive
-neutral,negative
-negative,neutral
-negative,negative
-negative,negative
-negative,negative
-positive,positive
-positive,positive
-negative,negative
-neutral,negative
-positive,positive
-positive,positive
-neutral,positive
-neutral,neutral
-neutral,negative
-negative,negative
-negative,neutral
-positive,positive
-positive,positive
-neutral,neutral
-negative,negative
-positive,positive
-negative,neutral
-negative,negative
-positive,positive
-neutral,negative
-positive,positive
-negative,negative
-positive,negative
-positive,positive
-negative,negative
-neutral,neutral
-negative,negative
-negative,negative
-positive,positive
-positive,positive
-negative,negative
-positive,neutral
-neutral,negative
-negative,negative
-positive,positive
-positive,positive
-positive,neutral
-neutral,neutral
-neutral,neutral
-neutral,neutral
-neutral,neutral
-neutral,neutral
-negative,negative
-neutral,negative
-neutral,positive
-neutral,positive
-neutral,positive
-negative,negative
-negative,negative
-positive,positive
-positive,positive
-neutral,neutral
-positive,positive
-neutral,neutral
-positive,neutral
-positive,positive
-positive,positive
-neutral,neutral
-neutral,neutral
-positive,positive
-positive,positive
-negative,negative
-neutral,neutral
-positive,positive
-neutral,neutral
-positive,positive
-negative,neutral
-negative,positive
-neutral,neutral
-positive,positive
-positive,positive
-positive,positive
-positive,positive
-negative,positive
-negative,negative
-negative,neutral
-positive,neutral
-neutral,neutral
-neutral,neutral
-positive,positive
-positive,positive
-negative,negative
-positive,positive
-positive,positive
-neutral,positive
-neutral,negative
-negative,negative
-positive,positive
-neutral,neutral
-neutral,neutral
-positive,negative
-neutral,neutral
-positive,positive
-neutral,neutral
-negative,negative
-negative,negative
-positive,positive
-positive,neutral
-neutral,neutral
-negative,negative
-negative,negative
-negative,negative
-positive,positive
-negative,neutral
-negative,negative
-neutral,neutral
-neutral,neutral
-positive,negative
-neutral,positive
-positive,positive
-positive,positive
-positive,positive
-positive,positive
-neutral,neutral
-neutral,neutral
-negative,negative
-neutral,positive
-neutral,neutral
-positive,positive
-positive,neutral
-positive,positive
-positive,positive
-neutral,neutral
-neutral,negative
-neutral,negative
-negative,negative
-positive,positive
-negative,negative
-negative,positive
-neutral,positive
-neutral,negative
-positive,positive
-neutral,negative
-negative,negative
-negative,neutral
-positive,neutral
-positive,positive
-positive,positive
-negative,negative
-positive,positive
-neutral,negative
-positive,positive
-positive,positive
-neutral,positive
-neutral,neutral
-neutral,positive
-neutral,neutral
-negative,negative
-neutral,negative
-negative,negative
-neutral,neutral
-positive,positive
-positive,positive
-positive,positive
-positive,neutral
-neutral,negative
-positive,positive
-negative,negative
-negative,negative
-positive,positive
-negative,negative
-negative,negative
-positive,positive
-negative,negative
-positive,positive
-neutral,neutral
-neutral,neutral
-positive,positive
-positive,positive
-negative,negative
-neutral,positive
-positive,positive
-positive,neutral
-negative,negative
-neutral,neutral
-positive,positive
-positive,positive
-positive,positive
-neutral,neutral
-neutral,neutral
-negative,negative
-neutral,neutral
-negative,negative
-positive,positive
-neutral,neutral
-neutral,negative
-negative,negative
-neutral,negative
-negative,positive
-negative,neutral
-neutral,neutral
-negative,negative
-positive,positive
-negative,negative
-positive,positive
-neutral,neutral
-positive,positive
-positive,positive
-neutral,neutral
-neutral,negative
-neutral,positive
-positive,positive
-neutral,neutral
-negative,negative
-positive,positive
-positive,positive
-positive,positive
-positive,positive
-positive,positive
-positive,neutral
-positive,positive
-negative,neutral
-negative,negative
-positive,neutral
-neutral,neutral
-positive,negative
-positive,positive
-neutral,neutral
-neutral,negative
-positive,positive
-negative,neutral
-negative,negative
-positive,positive
-neutral,neutral
-positive,negative
-negative,positive
-positive,positive
-positive,positive
-positive,positive
-negative,neutral
-positive,positive
-positive,positive
-positive,positive
-positive,positive
-negative,negative
-positive,positive
-negative,neutral
-positive,positive
-neutral,neutral
-neutral,neutral
-negative,negative
-neutral,negative
-positive,neutral
-neutral,neutral
-neutral,neutral
-neutral,neutral
-negative,negative
-negative,negative
-positive,positive
-negative,negative
-positive,positive
-neutral,neutral
-positive,positive
-neutral,negative
-positive,positive
-negative,negative
-neutral,neutral
-positive,positive
-negative,negative
-positive,positive
-neutral,positive
-positive,neutral
-negative,negative
-negative,negative
-positive,neutral
-neutral,neutral
-positive,positive
-negative,negative
-negative,negative
-negative,neutral
-neutral,neutral
-neutral,negative
-positive,negative
-neutral,neutral
-positive,positive
-negative,negative
-neutral,neutral
-neutral,neutral
-negative,negative
-neutral,positive
-negative,negative
-negative,negative
-neutral,neutral
-negative,neutral
-positive,positive
-positive,neutral
-negative,neutral
-negative,negative
-positive,positive
-negative,negative
-negative,neutral
-positive,negative
-neutral,neutral
-positive,positive
-negative,negative
-neutral,neutral
-positive,positive
-positive,neutral
-positive,negative
-negative,negative
-neutral,neutral
-negative,negative
-positive,neutral
-neutral,neutral
-negative,positive
-positive,neutral
-positive,positive
-negative,negative
-positive,positive
-negative,negative
-neutral,negative
-neutral,neutral
-negative,negative
-positive,neutral
-neutral,neutral
-positive,positive
-neutral,negative
-positive,positive
-positive,positive
-neutral,positive
-positive,positive
-neutral,negative
-neutral,positive
-neutral,neutral
-positive,positive
-neutral,neutral
-neutral,neutral
-negative,positive
-neutral,neutral
-positive,positive
-positive,neutral
-positive,positive
-positive,positive
-positive,negative
-negative,neutral
-negative,negative
-positive,positive
-neutral,neutral
-neutral,neutral
-negative,neutral
-neutral,negative
-neutral,neutral
-neutral,negative
-neutral,neutral
-negative,positive
-neutral,neutral
-positive,positive
-positive,neutral
-positive,positive
-positive,positive
-positive,positive
-neutral,neutral
-negative,negative
-neutral,neutral
-negative,negative
-positive,positive
-negative,negative
-neutral,neutral
-positive,positive
-negative,neutral
-negative,negative
-neutral,positive
-neutral,neutral
-neutral,positive
-negative,negative
-positive,positive
-neutral,neutral
-positive,positive
-neutral,positive
-negative,negative
-positive,positive
-negative,negative
-neutral,negative
-neutral,neutral
-neutral,positive
-positive,positive
-positive,neutral
-negative,negative
-negative,neutral
-positive,neutral
-negative,negative
-negative,negative
-negative,negative
-positive,positive
-negative,negative
-neutral,positive
-negative,negative
-positive,positive
-negative,neutral
-positive,positive
-neutral,neutral
-negative,negative
-neutral,neutral
-negative,positive
-positive,positive
-negative,positive
-positive,positive
-positive,neutral
-positive,positive
-negative,negative
-neutral,neutral
-negative,negative
-positive,positive
-positive,positive
-negative,negative
-negative,negative
-positive,neutral
-negative,negative
-negative,negative
-negative,negative
-negative,neutral
-negative,negative
-negative,negative
-positive,neutral
-negative,negative
-positive,positive
-negative,negative
-neutral,neutral
-negative,negative
-negative,neutral
-negative,negative
-positive,positive
-neutral,neutral
-negative,negative
-neutral,positive
-neutral,negative
-neutral,positive
-positive,neutral
-negative,negative
-positive,positive
-negative,negative
-positive,positive
-negative,negative
-neutral,negative
-positive,positive
-neutral,negative
-neutral,neutral
-neutral,neutral
-neutral,neutral
-neutral,positive
-neutral,neutral
-negative,neutral
-negative,negative
-neutral,neutral
-neutral,neutral
-positive,neutral
-neutral,negative
-neutral,negative
-positive,positive
-neutral,neutral
-neutral,neutral
-neutral,negative
-positive,positive
-negative,negative
-negative,negative
-positive,negative
-neutral,neutral
-negative,negative
-positive,negative
-positive,positive
-negative,negative
-neutral,neutral
-negative,negative
-negative,positive
-positive,positive
-positive,positive
-negative,negative
-negative,negative
-positive,positive
-neutral,positive
-positive,positive
-negative,negative
-neutral,neutral
-positive,positive
-positive,positive
-positive,positive
-positive,positive
-positive,negative
-positive,positive
-neutral,negative
-negative,neutral
-neutral,neutral
-negative,negative
-negative,negative
-neutral,neutral
-neutral,neutral
-positive,positive
-positive,neutral
-negative,negative
-positive,negative
-negative,negative
-neutral,neutral
-negative,negative
-negative,negative
-negative,negative
-negative,negative
-negative,negative
-positive,positive
-positive,positive
-negative,negative
-neutral,neutral
-negative,negative
-negative,negative
-negative,negative
-positive,positive
-positive,positive
-neutral,neutral
-negative,negative
-positive,positive
-neutral,neutral
-negative,negative
-positive,positive
-neutral,neutral
-negative,negative
-positive,positive
-negative,negative
-neutral,negative
-positive,positive
-negative,negative
-neutral,neutral
-neutral,negative
-neutral,negative
-negative,negative
-neutral,neutral
-neutral,neutral
-neutral,neutral
-positive,positive
-negative,negative
-negative,negative
-positive,positive
-positive,positive
-neutral,negative
-positive,neutral
-neutral,neutral
-negative,negative
-positive,positive
-neutral,neutral
-neutral,neutral
-positive,positive
-negative,negative
-neutral,negative
-positive,positive
-negative,negative
-neutral,neutral
-neutral,neutral
-neutral,negative
-negative,negative
-neutral,neutral
-neutral,neutral
-negative,negative
-negative,negative
-neutral,neutral
-neutral,negative
-positive,neutral
-positive,neutral
-positive,positive
-neutral,positive
-positive,positive
-neutral,neutral
-negative,negative
-neutral,neutral
-positive,neutral
-negative,negative
-positive,positive
-negative,negative
-neutral,neutral
-neutral,neutral
-negative,negative
-neutral,neutral
-neutral,positive
-positive,positive
-negative,negative
-negative,negative
-negative,negative
-neutral,neutral
-negative,negative
-neutral,negative
-negative,neutral
-neutral,neutral
-neutral,positive
-negative,neutral
-positive,positive
-negative,negative
-negative,negative
-positive,positive
-positive,neutral
-negative,negative
-neutral,neutral
-positive,positive
-neutral,neutral
-positive,positive
-negative,negative
-neutral,negative
-neutral,negative
-neutral,neutral
-positive,positive
-neutral,neutral
-neutral,negative
-neutral,positive
-negative,negative
-neutral,neutral
-positive,positive
-neutral,neutral
-negative,negative
-positive,positive
-neutral,neutral
-negative,neutral
-negative,neutral
-neutral,neutral
-neutral,neutral
-negative,negative
-negative,negative
-negative,negative
-positive,neutral
-neutral,negative
-negative,neutral
-negative,negative
-positive,positive
-negative,negative
-negative,negative
-negative,negative
-negative,negative
-positive,positive
-negative,neutral
-positive,positive
-neutral,neutral
-negative,negative
-neutral,negative
-neutral,neutral
-neutral,neutral
-negative,negative
-positive,positive
-positive,positive
-positive,positive
-positive,positive
-negative,negative
-positive,positive
-positive,positive
-negative,negative
-neutral,negative
-neutral,neutral
-negative,negative
-neutral,neutral
-negative,negative
-negative,negative
-negative,negative
-positive,positive
-negative,negative
-neutral,negative
-negative,negative
-negative,negative
-positive,positive
-neutral,neutral
-neutral,negative
-positive,positive
-neutral,neutral
-negative,negative
-negative,neutral
-positive,negative
-positive,positive
-negative,negative
-positive,positive
-positive,neutral
-positive,neutral
-positive,positive
-negative,negative
-positive,positive
-neutral,neutral
-neutral,neutral
-positive,positive
-neutral,neutral
-negative,negative
-positive,positive
-neutral,neutral
-positive,positive
-positive,positive
-positive,positive
-neutral,positive
-neutral,neutral
-neutral,negative
-negative,negative
-negative,positive
-negative,neutral
-positive,neutral
-negative,negative
-neutral,neutral
-neutral,neutral
-neutral,negative
-negative,negative
-negative,negative
-neutral,positive
-negative,negative
-neutral,neutral
-neutral,neutral
-positive,positive
-positive,positive
-neutral,neutral
-neutral,negative
-positive,positive
-negative,negative
-neutral,neutral
-neutral,neutral
-neutral,negative
-negative,negative
-neutral,neutral
-positive,positive
-positive,positive
-positive,positive
-positive,neutral
-positive,positive
-negative,negative
-neutral,negative
-neutral,neutral
-neutral,neutral
-negative,neutral
-neutral,neutral
-positive,positive
-neutral,neutral
-positive,positive
-neutral,neutral
-positive,positive
-negative,negative
-negative,negative
-positive,neutral
-negative,negative
-positive,positive
-negative,neutral
-neutral,neutral
-neutral,negative
-neutral,neutral
-negative,neutral
-negative,neutral
-neutral,neutral
-positive,positive
-positive,neutral
-positive,neutral
-neutral,positive
-negative,negative
-positive,positive
-neutral,positive
-negative,negative
-positive,positive
-negative,negative
-positive,positive
-neutral,neutral
-negative,negative
-neutral,neutral
-negative,negative
-positive,positive
-positive,positive
-negative,positive
-positive,positive
-neutral,negative
-neutral,neutral
-negative,neutral
-negative,negative
-positive,neutral
-positive,positive
-neutral,positive
-negative,negative
-negative,negative
-positive,positive
-negative,negative
-positive,neutral
-negative,negative
-negative,negative
-neutral,negative
-neutral,neutral
-positive,neutral
-neutral,neutral
-positive,positive
-neutral,neutral
-positive,positive
-neutral,neutral
-positive,positive
-positive,negative
-neutral,neutral
-positive,positive
-neutral,neutral
-negative,neutral
-positive,neutral
-negative,neutral
-negative,positive
-neutral,neutral
-negative,negative
-positive,positive
-negative,negative
-neutral,neutral
-neutral,neutral
-positive,positive
-negative,neutral
-positive,positive
-positive,positive
-neutral,neutral
-neutral,neutral
-positive,positive
-negative,negative
-positive,positive
-neutral,positive
-positive,positive
-negative,negative
-negative,neutral
-positive,positive
-negative,negative
-neutral,positive
-positive,positive
-positive,positive
-negative,neutral
-negative,negative
-positive,positive
-negative,negative
-negative,negative
-neutral,negative
-negative,negative
-positive,neutral
-positive,positive
-neutral,neutral
-negative,negative
-neutral,negative
-negative,negative
-positive,positive
-neutral,negative
-neutral,positive
-positive,positive
-positive,positive
-positive,positive
-positive,positive
-neutral,positive
-neutral,neutral
-neutral,neutral
-positive,positive
-positive,positive
-negative,negative
-neutral,neutral
-negative,negative
-negative,negative
-neutral,neutral
-neutral,neutral
-neutral,neutral
-negative,positive
-negative,positive
-negative,negative
-positive,positive
-neutral,negative
-neutral,negative
-positive,neutral
-neutral,negative
-neutral,neutral
-neutral,neutral
-positive,positive
-neutral,neutral
-positive,neutral
-negative,negative
-negative,neutral
-positive,positive
-neutral,neutral
-neutral,neutral
-neutral,neutral
-neutral,neutral
-positive,positive
-neutral,neutral
-positive,positive
-neutral,neutral
-positive,positive
-positive,positive
-negative,negative
-positive,positive
-negative,positive
-neutral,neutral
-neutral,neutral
-negative,negative
-negative,negative
-negative,negative
-neutral,positive
-neutral,positive
-positive,positive
-negative,negative
-negative,negative
-neutral,neutral
-positive,positive
-neutral,neutral
-positive,neutral
-negative,negative
-positive,positive
-negative,negative
-positive,positive
-positive,positive
-negative,neutral
-neutral,neutral
-neutral,neutral
-negative,negative
-positive,neutral
-neutral,neutral
-neutral,neutral
-positive,positive
-positive,negative
-negative,negative
-negative,neutral
-negative,negative
-positive,positive
-positive,positive
-positive,neutral
-positive,neutral
+original_dataset_indices,category,sentiment,svm_pred
+84,"Drama, Western",positive,positive
+4374,Comedy,neutral,positive
+1497,"Comedy, Animation, Family",negative,negative
+653,"Comedy, Drama, Thriller",neutral,positive
+877,"Horror, Adventure, Action",neutral,neutral
+4879,"Drama, Comedy",negative,negative
+157,"Thriller, Action",negative,negative
+3611,Western,positive,negative
+751,"Action, Comedy, Crime",positive,neutral
+2822,"Family, Comedy",neutral,neutral
+3961,"Romance, Science Fiction, Thriller",positive,positive
+724,"Action, Thriller, Science Fiction",neutral,negative
+1723,"Action, Comedy, Crime",negative,negative
+4526,"Animation, Romance, Drama",neutral,neutral
+3103,"Animation, Family, Science Fiction",positive,positive
+248,"Fantasy, Horror, Comedy",neutral,neutral
+1902,"Horror, Romance",negative,negative
+4254,"Comedy, Thriller, Drama",positive,positive
+586,"Horror, Thriller",neutral,neutral
+1413,"Mystery, Drama, Crime",neutral,negative
+1392,"Action, Comedy, Crime, Thriller",neutral,neutral
+3168,"Comedy, Drama, Romance",positive,positive
+2100,"Action, Crime, Thriller",positive,neutral
+4730,"Action, Comedy, Crime, Mystery",negative,neutral
+4224,"Adventure, Thriller, Science Fiction",neutral,positive
+3263,"Drama, Comedy, Fantasy",negative,negative
+1583,"Action, Fantasy, Horror",negative,negative
+889,"Thriller, Action, Crime",negative,neutral
+2813,"Action, Adventure, Drama, Romance",negative,negative
+3172,"Family, Fantasy, Animation, Adventure",negative,negative
+3692,"Comedy, Crime, Mystery, Thriller",positive,positive
+393,"Adventure, Action",negative,negative
+29,"Horror, Thriller",neutral,positive
+1117,"Thriller, Action",negative,negative
+416,"Science Fiction, Action, Adventure",negative,negative
+577,"Adventure, Action, Science Fiction",negative,negative
+1049,"Action, Adventure",neutral,neutral
+2468,"Action, Thriller, Mystery",negative,negative
+2127,"Adventure, Action",neutral,negative
+2585,"Family, Animation, Science Fiction, Adventure",positive,positive
+3646,"Science Fiction, Adventure, Action",negative,negative
+3674,"Horror, Mystery",negative,neutral
+426,"Adventure, Action, Fantasy",neutral,negative
+2998,Drama,negative,negative
+230,"Horror, Action, Thriller",positive,positive
+3269,"Horror, Comedy",negative,neutral
+1397,"Drama, Crime",negative,negative
+65,"Drama, Thriller",positive,neutral
+1419,"Thriller, Crime, Drama, Mystery",negative,positive
+4950,"Science Fiction, Horror, Action",neutral,neutral
+23,"Comedy, Romance, Crime",negative,negative
+3613,"Horror, Action, Thriller",positive,positive
+3137,"Drama, War",neutral,positive
+1844,"Adventure, Family, Fantasy",neutral,neutral
+3112,"Drama, Crime, Action",positive,positive
+1041,"Action, Adventure, Science Fiction",neutral,neutral
+2706,"Comedy, Thriller, Drama",positive,positive
+106,"Action, Adventure, Science Fiction",positive,positive
+4096,"Drama, Romance",negative,positive
+3248,"Thriller, Action",neutral,negative
+4252,"Drama, Thriller, War",positive,positive
+4778,"Adventure, Action, Animation",negative,negative
+4552,"Adventure, Comedy, Science Fiction",positive,positive
+969,"Action, Crime, Thriller",positive,positive
+4325,"Animation, Family, Comedy, Fantasy",positive,positive
+373,"Action, Drama, History",positive,negative
+1729,"Action, Thriller, Science Fiction",neutral,neutral
+2174,"Animation, Family, Action, Comedy, Adventure, Fantasy",positive,neutral
+2820,"Horror, Thriller",positive,neutral
+3787,"Action, Adventure, Science Fiction",negative,positive
+763,"Science Fiction, Horror",neutral,positive
+4247,"Horror, Mystery",negative,negative
+1862,"Action, Adventure, Thriller, Science Fiction",negative,neutral
+3920,"Adventure, Fantasy, Animation",positive,positive
+3658,"Horror, Thriller",neutral,neutral
+4231,"Drama, Thriller, Mystery",neutral,neutral
+4340,Horror,negative,neutral
+296,"Adventure, Action, Science Fiction",positive,positive
+1412,"Science Fiction, Horror, Thriller",neutral,negative
+1330,"Action, Crime, Thriller",negative,neutral
+1370,"Crime, Mystery, Thriller",neutral,neutral
+810,"Adventure, Animation, Family",negative,positive
+4392,"Action, Adventure, Comedy",negative,negative
+4223,"Action, Science Fiction, Horror",neutral,neutral
+505,"Fantasy, Action, Comedy",negative,negative
+4765,"Thriller, Drama, Crime",positive,positive
+2836,"Fantasy, Horror, Comedy",negative,negative
+168,"Science Fiction, Horror, Action",negative,neutral
+2288,"Action, Adventure, Science Fiction",neutral,neutral
+1094,"Science Fiction, Drama",negative,negative
+79,"Action, Comedy, Crime",neutral,negative
+3878,"Animation, Comedy, Family, Science Fiction, Adventure",neutral,neutral
+2643,"Science Fiction, Drama, Adventure",positive,positive
+4825,"Horror, Thriller",neutral,negative
+4451,"Animation, Comedy, Action, Science Fiction",neutral,neutral
+2519,"Drama, Comedy",negative,negative
+3686,"Science Fiction, Mystery, Adventure",positive,neutral
+2977,"Action, Comedy, Fantasy",negative,negative
+1374,"Comedy, Crime, Drama",neutral,positive
+227,"Adventure, Drama, Family, Animation",neutral,neutral
+3135,"Drama, Romance",positive,positive
+2312,"Comedy, Science Fiction, Drama",positive,positive
+4821,"Fantasy, Action, Drama",neutral,neutral
+1873,"Fantasy, Adventure, Action",positive,positive
+199,"Fantasy, Drama, Adventure",negative,negative
+4589,"Action, Thriller, Crime",positive,positive
+3899,"Horror, Thriller",negative,positive
+1260,"Action, Comedy, Crime",neutral,neutral
+3334,"Animation, Family, Comedy",positive,neutral
+1056,"Horror, Drama, Science Fiction",neutral,neutral
+1732,"Action, Adventure, Science Fiction",positive,neutral
+829,"Adventure, Thriller, Science Fiction",neutral,neutral
+4867,"Horror, Mystery",neutral,neutral
+2648,"Animation, Comedy, Family",positive,positive
+2962,"Science Fiction, Action, Adventure",positive,positive
+4874,"Animation, Comedy, Family, Adventure",positive,neutral
+1055,"Animation, Adventure, Fantasy, Comedy, Family",positive,positive
+2302,"Action, Crime, Thriller",positive,positive
+1755,Horror,negative,negative
+4410,"Drama, Fantasy, Horror",neutral,negative
+3159,"Action, Adventure, Science Fiction",neutral,positive
+1052,"Drama, Comedy",positive,neutral
+4755,"Horror, Thriller, Science Fiction",negative,negative
+3000,"Action, Thriller, Science Fiction",positive,positive
+896,"Crime, Drama, Thriller",neutral,neutral
+2210,"Science Fiction, Adventure, Action",positive,positive
+2103,"Fantasy, Action, Thriller, Science Fiction, Horror",negative,neutral
+1808,Horror,negative,negative
+491,"Horror, Thriller, Mystery",positive,positive
+4707,"Action, Thriller, Science Fiction",positive,positive
+3076,"Thriller, Action, Crime, Drama",negative,negative
+1891,Documentary,neutral,negative
+2095,"Action, Adventure, Science Fiction",neutral,positive
+3669,"Crime, Thriller",negative,negative
+2213,"Action, Horror, Science Fiction",negative,negative
+2784,"Fantasy, Thriller, Mystery, Horror",neutral,neutral
+3682,"Animation, Family, Comedy",neutral,positive
+1717,"Science Fiction, Thriller",negative,neutral
+4624,"Drama, Fantasy, Horror",positive,positive
+179,"Science Fiction, Adventure",negative,negative
+1751,"Adventure, Action, Fantasy",positive,positive
+4086,"Horror, Thriller, Crime",positive,neutral
+1436,"History, Drama",negative,negative
+3206,"Drama, Romance, Fantasy",positive,positive
+3400,"Drama, Science Fiction, Thriller",negative,negative
+1103,"Crime, Drama",negative,negative
+3066,"Animation, Comedy, Adventure, Family",neutral,neutral
+1034,"Action, Science Fiction, Thriller",positive,positive
+977,"Fantasy, Adventure",negative,negative
+8,"Action, Horror, Thriller",negative,negative
+4958,"Science Fiction, Action, Adventure, Thriller",neutral,neutral
+4280,"Comedy, Crime",negative,negative
+812,"Horror, Thriller, Drama",positive,positive
+144,"Action, Adventure, Science Fiction",neutral,neutral
+633,"Drama, Romance",neutral,neutral
+3966,"Family, Science Fiction, Comedy",neutral,neutral
+2732,"Crime, Comedy, Action",negative,negative
+1362,"Action, Thriller",positive,negative
+151,"Action, Adventure, Crime, Science Fiction, Thriller",negative,neutral
+4793,"Crime, Drama, Action",neutral,positive
+1047,Comedy,negative,negative
+2101,Drama,negative,negative
+787,"Horror, Mystery, Crime",positive,negative
+4004,"Adventure, Fantasy, Action",positive,positive
+3574,"Horror, Mystery",negative,negative
+2451,"Action, Thriller",positive,positive
+2882,"Animation, Family, Adventure, Fantasy, Comedy",neutral,neutral
+3671,"Horror, Thriller",negative,negative
+1609,"Science Fiction, Thriller, Action",neutral,neutral
+3755,"Action, Comedy, Science Fiction",positive,positive
+4017,"Adventure, Action, Science Fiction",positive,positive
+2133,"Drama, Action, Fantasy, Science Fiction",negative,negative
+1813,"Horror, Mystery",positive,positive
+1983,"History, War, Romance",neutral,neutral
+4246,"Science Fiction, Adventure, Fantasy",positive,positive
+1391,"Horror, Thriller",neutral,neutral
+279,"Adventure, Action, Thriller",neutral,neutral
+100,"Thriller, Action, Crime, Drama",negative,negative
+2892,"Action, Crime",neutral,neutral
+1220,"Action, Adventure, Science Fiction",neutral,neutral
+2989,"Fantasy, Action, Adventure",neutral,positive
+1941,"Action, Horror, Science Fiction, Thriller",positive,positive
+1839,"Action, Adventure, Science Fiction",neutral,negative
+3960,"Action, Thriller",neutral,neutral
+731,"Horror, Science Fiction",positive,positive
+240,"Fantasy, Adventure, Family",negative,neutral
+3616,"Action, Crime, Thriller",negative,negative
+1623,"Crime, Action, Science Fiction",neutral,neutral
+1101,"Adventure, Action, Thriller",negative,neutral
+3866,"Action, Thriller",neutral,negative
+497,Thriller,neutral,neutral
+2086,Horror,neutral,neutral
+4076,"Science Fiction, Action, Adventure",neutral,negative
+4198,"Horror, Action, Thriller",negative,neutral
+4173,Horror,negative,negative
+472,"Science Fiction, Adventure, Action",neutral,neutral
+1921,"Action, Adventure, Science Fiction",positive,positive
+3289,"Action, Adventure, Science Fiction",positive,positive
+584,"Action, Crime, Thriller",positive,positive
+3197,"Horror, Mystery",neutral,negative
+4288,"Adventure, Action, Fantasy",negative,neutral
+4281,"Drama, Comedy, Romance",neutral,negative
+4373,"Action, Adventure, Science Fiction",neutral,negative
+1231,"Horror, Thriller, Comedy",positive,neutral
+655,"Comedy, Crime, Mystery",positive,positive
+1292,"Science Fiction, Action",positive,positive
+2346,"Animation, Science Fiction, Family, Adventure",neutral,neutral
+3275,"War, Action, Drama",negative,negative
+4359,"Comedy, Romance, Crime",negative,negative
+228,"Action, Comedy, Science Fiction",neutral,neutral
+33,"Action, Drama",negative,negative
+2775,"Mystery, Thriller",positive,positive
+838,"Horror, Science Fiction",negative,negative
+1270,"Drama, Comedy",negative,neutral
+3134,"Adventure, Action, Fantasy",positive,neutral
+4092,"Fantasy, Adventure",neutral,positive
+2450,"Science Fiction, Adventure, Action, Thriller",neutral,neutral
+599,"Science Fiction, Action",neutral,neutral
+4326,"Action, Adventure, Fantasy",negative,negative
+3270,"Adventure, Fantasy, Family",positive,positive
+2702,"Family, Comedy, Adventure, Fantasy, Animation",positive,positive
+422,Horror,negative,negative
+4653,"Drama, Romance",neutral,neutral
+1932,"Fantasy, Adventure, Action",positive,positive
+3648,"Family, Comedy",negative,neutral
+1803,"History, War, Romance",neutral,neutral
+4820,"Action, Adventure, Comedy",negative,negative
+2488,Drama,negative,negative
+4460,"Action, Thriller, Adventure",negative,negative
+2138,"Adventure, Animation, Family, Romance",neutral,neutral
+297,"Action, Adventure, Science Fiction, Thriller",neutral,neutral
+3296,"Action, Comedy, Crime",negative,negative
+2753,"Drama, War",neutral,neutral
+2072,"Adventure, Drama, Fantasy",negative,negative
+3098,"Horror, Science Fiction",negative,negative
+538,"Action, Crime",neutral,neutral
+1769,"Crime, Thriller",neutral,neutral
+3950,"Family, Fantasy",negative,negative
+1126,"Adventure, Action, Thriller, Fantasy",negative,negative
+1684,"Family, Animation, Music, Adventure",positive,positive
+4287,"Animation, Comedy, Action, Science Fiction",neutral,neutral
+3508,"Family, Comedy, Adventure, Fantasy, Animation",positive,positive
+4610,"Adventure, Action, Thriller",neutral,neutral
+4584,"Adventure, Fantasy, Family",positive,positive
+485,"Drama, History",negative,neutral
+4180,"Science Fiction, Action, Adventure",negative,negative
+683,"Animation, Adventure, Family, Comedy, Music",negative,neutral
+468,"Animation, Comedy, Family, Fantasy",neutral,negative
+3821,Drama,negative,negative
+4283,"Drama, Science Fiction",negative,negative
+544,"Comedy, Action, Crime",negative,neutral
+1632,"Horror, Science Fiction",positive,neutral
+2770,"Action, Thriller, Crime",positive,positive
+4255,"Fantasy, Action, Adventure",positive,positive
+3194,"Comedy, Horror",negative,negative
+733,"Family, Comedy, Animation, Adventure",positive,positive
+4806,"Horror, Thriller",neutral,neutral
+2015,"Action, Comedy, Romance",negative,negative
+2276,"Animation, Family, Science Fiction",positive,positive
+561,"Animation, Comedy, Family",positive,neutral
+893,"Animation, Family",negative,negative
+3109,Horror,negative,negative
+1614,"Science Fiction, Action, Thriller",neutral,neutral
+3516,"Animation, Family, Adventure",positive,negative
+3571,"Adventure, Drama, Thriller",negative,negative
+149,"Family, Comedy, Adventure, Fantasy, Animation",positive,negative
+1831,"Horror, Action, Thriller",neutral,neutral
+1471,"Thriller, Mystery",neutral,negative
+2022,"Comedy, Drama, Romance",neutral,positive
+12,"Science Fiction, Adventure, Action",neutral,negative
+2384,"Science Fiction, Action",neutral,neutral
+4876,"Drama, Action, Thriller",neutral,positive
+3164,"Action, Thriller, Science Fiction",neutral,neutral
+414,"Action, Adventure, Thriller",positive,positive
+3954,"Drama, History",negative,negative
+4938,"Action, Comedy, Crime",positive,neutral
+3483,"Action, Crime, Romance",neutral,negative
+841,"Science Fiction, Adventure",positive,positive
+1860,Drama,negative,negative
+4562,"Action, Adventure, Science Fiction",positive,positive
+1073,"Action, Drama, Thriller",negative,negative
+765,"Action, Adventure, History, Drama",negative,negative
+3911,"Adventure, Action, Science Fiction",positive,positive
+4754,"Horror, Action, Thriller, Crime",neutral,neutral
+4052,"Action, Drama, Science Fiction",negative,neutral
+1129,"Family, Science Fiction, Comedy",neutral,negative
+486,"Thriller, Crime, Comedy",positive,positive
+3790,"Drama, Romance, History",negative,negative
+3046,"Action, Science Fiction, Horror",neutral,neutral
+2594,"Horror, Comedy, Science Fiction",neutral,neutral
+3355,"Animation, Comedy, Adventure, Family",neutral,neutral
+1038,"Adventure, Action, Thriller",negative,negative
+1444,"Action, Drama",positive,positive
+465,"Romance, Comedy",negative,negative
+4412,"Crime, Mystery, Thriller",positive,positive
+2497,"Action, Adventure, Fantasy, Animation",positive,neutral
+132,Drama,positive,positive
+4992,"Science Fiction, Drama, Romance",positive,neutral
+3378,"Science Fiction, Horror, Thriller",negative,negative
+4200,"Science Fiction, Action, Drama, Thriller",negative,neutral
+2522,"Thriller, Action, Crime",positive,neutral
+1305,"Action, Science Fiction, Comedy",negative,negative
+4688,"Drama, Crime",positive,negative
+1095,"Adventure, Action, Science Fiction",positive,neutral
+287,"Action, Science Fiction, Comedy",positive,positive
+1665,"Action, Adventure, Fantasy",neutral,negative
+4849,"Horror, Thriller",negative,negative
+4182,"Romance, Comedy",positive,positive
+1235,"Adventure, Action, Science Fiction",negative,negative
+3694,Drama,positive,neutral
+1612,"Comedy, Thriller, Drama",positive,positive
+4637,"Drama, Romance",positive,neutral
+3139,"Comedy, Adventure",neutral,neutral
+3226,"Drama, Comedy",neutral,neutral
+2905,"Drama, Comedy",positive,positive
+807,"Comedy, Romance",neutral,negative
+3665,"Comedy, Crime, Drama",negative,negative
+1018,Horror,negative,negative
+1417,"Drama, Fantasy, Horror",positive,positive
+4862,"Action, Crime, Thriller",positive,positive
+3253,"Action, Science Fiction, Comedy, Family",neutral,positive
+677,"Horror, Science Fiction",negative,negative
+2063,"Horror, Science Fiction",positive,neutral
+2080,"Action, Science Fiction, Adventure",positive,positive
+4858,"Horror, Drama, Mystery",neutral,neutral
+4423,"Animation, Family, Fantasy, Adventure",neutral,positive
+2236,"Horror, Mystery",negative,neutral
+1032,Drama,neutral,neutral
+1204,"Horror, Thriller",negative,neutral
+1849,"Drama, Thriller",negative,negative
+589,"Drama, Romance",negative,negative
+3891,"Action, Drama, History, War",negative,negative
+3470,"Action, Crime, Drama, Thriller",positive,positive
+1115,"Adventure, Action, Science Fiction",positive,negative
+471,"Comedy, Drama, Romance",positive,positive
+1192,"Adventure, Action, Science Fiction",neutral,neutral
+1503,"Thriller, Horror, Action",negative,negative
+3105,"Action, Adventure, Fantasy",neutral,neutral
+4731,"Adventure, Action, Thriller",neutral,neutral
+4631,"Action, Adventure, Science Fiction",neutral,negative
+764,"Drama, History",positive,positive
+3161,"Family, Fantasy",neutral,negative
+1451,"Science Fiction, Action, Adventure",negative,neutral
+1554,"Romance, Drama, Comedy",negative,negative
+2929,"Action, Science Fiction, Adventure, Thriller",negative,negative
+1174,"Crime, Drama, Mystery",negative,negative
+2880,"Thriller, Crime, Comedy",positive,positive
+3189,"Adventure, Action, Science Fiction",positive,positive
+952,"Comedy, Action, Crime",negative,negative
+290,"Comedy, Drama, Family",neutral,negative
+410,"Drama, Romance, Fantasy",positive,positive
+252,"Animation, Adventure, Comedy, Family",positive,positive
+3481,"Action, Thriller, Crime",neutral,positive
+350,"Fantasy, Family, Comedy",neutral,neutral
+4393,Drama,neutral,negative
+4345,"Action, Adventure, Fantasy",negative,negative
+4750,"Action, Thriller",negative,neutral
+90,"Action, Adventure, Science Fiction",positive,positive
+2172,"Animation, Thriller",positive,positive
+746,"Science Fiction, Drama, Action",neutral,neutral
+2367,"Mystery, Drama, Crime",negative,negative
+3034,"Horror, Science Fiction",positive,positive
+26,"Action, Adventure, Family, Comedy",negative,neutral
+553,"Crime, Action, Thriller, Drama",negative,negative
+676,"Horror, Science Fiction, Drama",positive,positive
+3915,"Action, Adventure, Science Fiction",neutral,negative
+3938,"Action, Comedy, Science Fiction",positive,positive
+1371,"Action, Horror, Thriller, Science Fiction",negative,negative
+1536,"Action, Drama",positive,negative
+4725,"Action, Adventure, Comedy",positive,positive
+842,"Drama, Comedy",negative,negative
+4701,"Mystery, Thriller",neutral,neutral
+2990,"Action, Adventure, Comedy",negative,negative
+254,"Horror, Thriller",negative,negative
+4680,"Science Fiction, Adventure, Action",positive,positive
+1128,Western,positive,positive
+3058,"Horror, Thriller",negative,negative
+4307,"Mystery, Thriller",positive,neutral
+4550,"Action, Drama, Thriller",neutral,negative
+1044,Horror,negative,negative
+1433,"Adventure, Action, Science Fiction",positive,positive
+1258,"Action, Science Fiction, Comedy",positive,positive
+4643,"Horror, Comedy, Drama",positive,neutral
+315,Comedy,neutral,neutral
+3250,"Action, Adventure, Science Fiction",neutral,neutral
+4962,"Mystery, Thriller, Crime",neutral,neutral
+1973,"Horror, Mystery",neutral,neutral
+2874,"Action, Adventure, Fantasy",neutral,neutral
+4196,"Horror, Crime, Drama",negative,negative
+69,"Action, Adventure, Comedy",neutral,negative
+1438,"Adventure, Fantasy",neutral,positive
+4265,Drama,neutral,positive
+1626,"Drama, Fantasy, Romance",neutral,positive
+1557,"Horror, Mystery",negative,negative
+881,"Adventure, Drama, History",negative,negative
+3100,"Horror, Thriller",positive,positive
+2600,"Horror, Mystery",positive,positive
+2988,"Horror, Fantasy, Comedy",neutral,neutral
+4964,"Adventure, Action, Science Fiction",positive,positive
+720,"Adventure, Action, Thriller",neutral,neutral
+1592,"Action, Comedy, Crime",positive,neutral
+3544,"Drama, Thriller, Mystery",positive,positive
+2177,"Action, Thriller, Crime",positive,positive
+429,"Science Fiction, Adventure, Action",neutral,neutral
+387,"War, Action, Drama",neutral,neutral
+3011,"Action, Thriller",positive,positive
+1170,"Action, Adventure, Science Fiction",positive,positive
+1261,"Family, Comedy, Animation, Science Fiction, Action",negative,negative
+2899,"Drama, Fantasy, Horror",neutral,neutral
+3357,"Crime, Thriller, Western",positive,positive
+1149,"Crime, Comedy",neutral,neutral
+109,"Animation, Comedy, Family, Adventure",positive,positive
+2503,Comedy,negative,neutral
+1756,"Family, Adventure, Drama",negative,positive
+3599,"Horror, Drama",neutral,neutral
+2589,"Action, Comedy, Science Fiction",positive,positive
+1598,"Adventure, Fantasy, Action",positive,positive
+657,"Action, Comedy, Adventure",positive,positive
+2459,"Action, Adventure, Science Fiction",positive,positive
+1558,"Comedy, Family, Fantasy",negative,positive
+4896,"Adventure, Action, Science Fiction",negative,negative
+1209,"Action, Adventure, Science Fiction",negative,neutral
+1962,"Action, Adventure, Science Fiction",positive,neutral
+3398,"Thriller, Action, Crime",neutral,neutral
+3479,"Fantasy, Thriller, Action, Adventure, Horror",neutral,neutral
+3580,"Adventure, Fantasy",positive,positive
+4407,"Action, Crime, Thriller",positive,positive
+3924,"Horror, Drama, Science Fiction",negative,negative
+4593,"Action, Drama",positive,positive
+3291,"Science Fiction, Adventure, Action",positive,positive
+3585,"Science Fiction, Horror, Action",neutral,positive
+2456,"Music, Drama",neutral,negative
+3905,"Drama, History, Crime, Thriller",negative,negative
+177,"Adventure, Drama, Science Fiction",positive,positive
+3238,"Fantasy, Action, Adventure",neutral,neutral
+1566,"Science Fiction, Action, Thriller, Crime",neutral,neutral
+80,"Comedy, Drama, Thriller",positive,negative
+734,"Action, Science Fiction, Horror",neutral,neutral
+501,"Animation, Family, Mystery, Adventure, Comedy",positive,positive
+3965,"Action, Adventure, Fantasy",neutral,neutral
+2123,"Drama, Fantasy, Mystery, Romance",negative,negative
+2323,"Adventure, Action, Thriller",negative,negative
+1084,"Action, Science Fiction, Comedy",positive,positive
+2042,"Action, Crime, Thriller",positive,neutral
+93,"Action, Thriller",neutral,neutral
+691,"Drama, Romance",negative,negative
+3220,"Comedy, Crime",negative,negative
+3758,"Drama, Romance",negative,negative
+1539,"Science Fiction, Mystery, Adventure",positive,positive
+949,"Science Fiction, Adventure, Action",negative,neutral
+2937,"Action, Science Fiction, Thriller",negative,negative
+1588,"Action, Thriller",neutral,neutral
+1183,"Family, Fantasy, Romance",neutral,neutral
+3662,"Horror, Thriller, Comedy",positive,negative
+1469,"Adventure, Drama, History, Action, Thriller",neutral,positive
+1253,"Mystery, Thriller, Horror",positive,positive
+3754,"Science Fiction, Action",positive,positive
+2787,Western,positive,positive
+4889,"Action, Thriller, Comedy",positive,positive
+4204,"Action, Crime, Thriller",neutral,neutral
+3886,"History, Drama, Music",neutral,neutral
+3921,"Crime, Comedy, Drama, History",negative,negative
+3861,"Action, Adventure, Thriller",neutral,positive
+530,"Action, Adventure, Fantasy",neutral,neutral
+4128,"Action, Science Fiction",positive,positive
+1618,"Action, Crime, Drama, Thriller",positive,neutral
+2231,"Drama, Science Fiction, Mystery",positive,positive
+624,"Drama, Thriller",positive,positive
+2117,"Science Fiction, Action",neutral,neutral
+4602,"Drama, Science Fiction",neutral,negative
+670,"Comedy, Family",neutral,negative
+2098,Horror,negative,negative
+2663,"Animation, Romance, Drama",positive,positive
+4817,"Thriller, Comedy, Crime",negative,negative
+219,"Comedy, Crime, Mystery",negative,positive
+4873,"Science Fiction, Adventure, Action",neutral,positive
+3621,"Action, Thriller",neutral,negative
+1606,"Animation, Family, Science Fiction, Adventure, Comedy",positive,positive
+2505,"Comedy, Science Fiction, Adventure",neutral,negative
+2696,"War, Thriller, Drama, Action",negative,negative
+1654,Horror,negative,neutral
+43,"Action, Comedy, Crime",positive,neutral
+1010,"Adventure, Action, Science Fiction",positive,positive
+210,"Crime, Thriller",positive,positive
+4531,"Western, Drama, Mystery",negative,negative
+354,"Science Fiction, Drama, Romance",positive,positive
+2416,"Drama, Mystery, Thriller",neutral,negative
+1295,"Action, Adventure, Science Fiction",positive,positive
+1108,"Action, Adventure, Science Fiction",positive,positive
+999,"Action, Comedy, Science Fiction",neutral,positive
+2692,"Action, Adventure, Drama",neutral,neutral
+555,"Science Fiction, Action, Adventure",neutral,positive
+367,"Drama, Music, Romance",neutral,neutral
+4059,"Animation, Action, Adventure, Comedy, Family",negative,negative
+931,"Horror, Mystery",neutral,negative
+3710,"Horror, Mystery, Thriller",negative,negative
+1519,"Horror, Mystery",neutral,neutral
+135,"Drama, Comedy, Romance",positive,positive
+1173,"Action, Thriller, Science Fiction",positive,positive
+2191,"Thriller, Action, Crime",positive,positive
+47,"Action, Crime, Drama, Thriller",positive,neutral
+3077,"Science Fiction, Horror, Fantasy",neutral,negative
+4718,"Crime, Drama, Action",positive,positive
+2405,"Action, Adventure, Crime",negative,negative
+4094,"Action, Comedy, Crime",negative,negative
+2741,"Animation, Family, Adventure, Fantasy, Romance",positive,positive
+1965,"Drama, Romance",negative,negative
+1268,Drama,negative,negative
+1158,Thriller,positive,positive
+3411,"Drama, History",negative,negative
+61,"Crime, Drama, Comedy",positive,positive
+3473,"Horror, Mystery, Thriller",neutral,neutral
+3557,"Science Fiction, Action, Adventure",neutral,neutral
+2526,"Action, Adventure, Drama",positive,positive
+95,"Action, Thriller, Science Fiction",positive,positive
+478,"Action, Adventure, Drama, Family",negative,negative
+1740,"Animation, Adventure, Fantasy, Family",neutral,positive
+776,"Horror, Thriller, Science Fiction",positive,positive
+1425,"Action, Adventure, Comedy",positive,neutral
+1096,Comedy,negative,negative
+2034,Comedy,neutral,neutral
+3002,"Mystery, Thriller, Crime, Drama",positive,positive
+322,"Horror, Thriller",positive,positive
+3347,"Action, Adventure, Drama",positive,positive
+1946,Horror,neutral,neutral
+2167,"Action, Mystery, Science Fiction, Thriller",neutral,neutral
+1859,"Horror, Thriller",negative,negative
+3550,"Comedy, Adventure",neutral,neutral
+1144,"Mystery, Thriller, Crime",negative,negative
+3634,"Adventure, Fantasy",positive,positive
+291,"Crime, Drama, Thriller, Action",neutral,neutral
+1943,"Crime, Thriller",neutral,negative
+4581,"Science Fiction, Mystery, Adventure",negative,negative
+533,"Science Fiction, Action, Adventure",neutral,negative
+4913,"Science Fiction, Horror",negative,positive
+1074,"Horror, Romance",negative,neutral
+1634,Drama,neutral,neutral
+4554,"Science Fiction, Horror, Fantasy",negative,negative
+1541,"Mystery, Thriller",positive,positive
+721,"Horror, Thriller",negative,negative
+4011,"Horror, Comedy",positive,positive
+1255,"Action, Fantasy, Horror",neutral,neutral
+4129,"Drama, Thriller, Mystery, Action",positive,positive
+4209,"Family, Fantasy",positive,positive
+3676,"Animation, Family, Adventure, Comedy",neutral,neutral
+3089,"Action, Thriller, Science Fiction",neutral,negative
+4782,"Action, Thriller",neutral,positive
+3647,"Horror, Science Fiction",positive,positive
+3443,"Horror, Mystery, Crime",neutral,neutral
+2024,"Action, Adventure, Science Fiction",negative,negative
+828,"Animation, Family, Adventure, Drama, Comedy",positive,positive
+1434,Drama,positive,positive
+4522,"Science Fiction, Adventure, Action",positive,positive
+4916,"Drama, History",positive,positive
+856,"Crime, Mystery, Thriller",positive,positive
+1323,"Action, Science Fiction",positive,neutral
+1550,"Horror, Mystery",positive,positive
+3021,"Action, Comedy, Romance",negative,neutral
+3214,Horror,negative,negative
+4187,"Drama, Romance",positive,neutral
+3065,"Thriller, Action, Crime",neutral,neutral
+2233,"Animation, Family, Comedy, Fantasy",positive,negative
+4971,"Animation, Family, Adventure",positive,positive
+2317,Horror,neutral,neutral
+4986,"Family, Comedy, Adventure, Fantasy, Animation",neutral,negative
+3504,"Crime, Mystery, Thriller",positive,positive
+3312,"Adventure, Action, Fantasy",negative,neutral
+2536,"Horror, Mystery",negative,negative
+1375,"Action, Adventure, Science Fiction",positive,positive
+3505,"Music, History, Drama",neutral,neutral
+70,"Drama, Thriller",positive,negative
+2576,"Drama, Horror, Science Fiction, Romance",negative,positive
+3681,"Family, Fantasy",positive,positive
+2833,"Action, Drama, Science Fiction",positive,positive
+3231,"Adventure, Fantasy",positive,positive
+1020,"Drama, Romance, History",negative,neutral
+1090,"Horror, Comedy",positive,positive
+805,"Animation, Family, Adventure, Fantasy, Romance",positive,positive
+4046,"Horror, Thriller",positive,positive
+626,"Animation, Adventure, Family, Comedy",positive,positive
+1175,"Adventure, Action, Animation",negative,negative
+2627,"Adventure, Fantasy, Family",positive,positive
+2630,"Horror, Action, Thriller",negative,neutral
+3659,"Thriller, Action, Science Fiction",positive,positive
+798,Horror,neutral,neutral
+2669,Horror,neutral,neutral
+4845,"Science Fiction, Mystery, Horror",negative,negative
+1281,"Action, Science Fiction, Adventure, Mystery",neutral,negative
+911,"Action, Adventure, Fantasy",positive,neutral
+2225,"Action, Fantasy, Horror",neutral,neutral
+3007,"Horror, Drama, Thriller",neutral,neutral
+2649,"Adventure, Action, Science Fiction",neutral,neutral
+642,"Drama, Romance",negative,negative
+4840,"Thriller, Crime, Drama",negative,negative
+705,"Adventure, Action, Science Fiction",positive,positive
+1870,"Fantasy, Family, Action, Adventure",negative,negative
+4516,"Horror, Thriller, Mystery",positive,positive
+3834,"Thriller, Adventure, Action",neutral,neutral
+4250,"Action, Adventure, Science Fiction",positive,positive
+1972,"Action, Adventure, Fantasy",neutral,negative
+3929,"Thriller, Action, Crime",positive,positive
+2591,"Romance, Drama, Thriller, Crime",negative,negative
+1765,"Action, Adventure, Science Fiction",neutral,neutral
+1244,"Action, Thriller, Science Fiction",positive,positive
+3706,"Adventure, Action, Science Fiction",negative,negative
+3630,"Animation, Comedy, Family, Adventure",positive,positive
+233,"Action, Adventure, Science Fiction",neutral,positive
+4563,"Horror, Thriller, Science Fiction",positive,neutral
+1877,"Comedy, Horror",negative,negative
+415,"Adventure, Drama, Family, Animation",negative,negative
+1344,"Horror, Mystery",positive,neutral
+2221,"Adventure, Action, Thriller",neutral,neutral
+1480,"Action, Science Fiction, Adventure",positive,positive
+4012,"Thriller, Horror, Mystery",negative,negative
+17,"Action, Adventure, Crime",negative,negative
+2052,"Horror, Thriller",negative,neutral
+907,"Action, Adventure, Science Fiction",neutral,neutral
+596,"Horror, Mystery",neutral,negative
+4854,"Drama, Action, Thriller",positive,negative
+3203,"Animation, Family, Fantasy, Adventure, Comedy",neutral,neutral
+926,"Action, Thriller, Crime",positive,positive
+3699,"Action, Adventure, Science Fiction",negative,negative
+4573,"Action, Adventure",neutral,neutral
+371,"Adventure, Action, Science Fiction",neutral,neutral
+1335,"Fantasy, Action",negative,negative
+598,"Action, Comedy, Thriller",neutral,positive
+238,"Adventure, Drama, History, Action, Thriller",negative,negative
+3534,"Horror, Mystery",negative,negative
+1293,"Thriller, Action, Adventure, Science Fiction",neutral,neutral
+1197,"Action, Adventure, Science Fiction",negative,neutral
+2951,"Action, Adventure, Science Fiction",positive,positive
+1779,"Family, Comedy, Animation, Science Fiction, Crime",positive,neutral
+1658,"Comedy, Drama, Thriller",negative,neutral
+3333,"Horror, Thriller, Fantasy",negative,negative
+3458,"Animation, Adventure, Comedy, Family",positive,positive
+3097,"Action, Comedy, Crime",negative,negative
+4617,"Adventure, Action, Science Fiction",negative,neutral
+2968,"Fantasy, Adventure, Action",positive,negative
+4501,"Action, Adventure, Comedy, Crime, Thriller",neutral,neutral
+4558,"Action, Science Fiction, Adventure",positive,positive
+2004,"Science Fiction, Action, Crime",negative,negative
+4620,"Animation, Comedy, Family",neutral,neutral
+794,"Adventure, Fantasy, Action",positive,positive
+4715,"Drama, Thriller, War",positive,neutral
+1669,"Action, Comedy, Adventure",positive,negative
+742,"Science Fiction, Action, Adventure",negative,negative
+1215,"Action, Adventure, Science Fiction",neutral,neutral
+3909,Comedy,negative,negative
+621,"Adventure, Family, Animation",positive,neutral
+2803,"Horror, Mystery, Thriller",neutral,neutral
+3623,"Fantasy, Adventure",negative,positive
+4093,"Science Fiction, Adventure",positive,neutral
+1650,"Horror, Thriller",positive,positive
+4447,"Adventure, Action, Science Fiction",negative,negative
+1200,"Action, Adventure, Science Fiction",positive,positive
+51,"Action, Adventure, Fantasy",negative,negative
+4622,"Horror, Thriller",neutral,negative
+2570,"Action, Crime, Thriller",neutral,neutral
+1345,"Crime, Romance",negative,negative
+534,"Science Fiction, Adventure, Action",positive,neutral
+3575,"Science Fiction, Action, Horror",neutral,neutral
+4118,"Science Fiction, Action, Adventure, Thriller",positive,positive
+443,"Science Fiction, Adventure, Action",neutral,negative
+927,"Drama, Crime",positive,positive
+195,"Action, Comedy, Crime",positive,positive
+681,"Fantasy, Action",neutral,positive
+3635,"Adventure, Action, Science Fiction",positive,positive
+811,"Animation, Action, Adventure, Comedy, Family",neutral,negative
+3126,"Action, Drama, Thriller, Crime",neutral,positive
+3610,"Adventure, Action, Thriller",neutral,neutral
+1361,"Action, Adventure, Science Fiction",positive,positive
+4609,"Adventure, Family, Fantasy",neutral,neutral
+2555,"Fantasy, Adventure",neutral,neutral
+2916,"Fantasy, Action, Horror",negative,positive
+644,"Fantasy, Adventure",neutral,neutral
+3537,"Animation, Family, Comedy",positive,positive
+3515,"Family, Comedy, Adventure, Fantasy, Animation",positive,neutral
+4028,"Action, Comedy, Adventure",positive,positive
+4400,"Drama, History",positive,positive
+120,"Comedy, Romance",positive,negative
+1221,"War, Action, Drama",negative,neutral
+2395,"Science Fiction, Adventure, Action",negative,negative
+4884,"Thriller, Crime, Comedy",positive,positive
+4716,"Horror, Romance",neutral,neutral
+3749,"Animation, Fantasy, Drama",neutral,neutral
+134,"Action, Thriller, Crime",negative,neutral
+4678,Comedy,neutral,negative
+2567,"Action, Adventure, Science Fiction",neutral,neutral
+2554,"Action, Adventure, Science Fiction",neutral,negative
+184,"Science Fiction, Adventure, Action",neutral,neutral
+4850,"War, History, Drama",negative,positive
+511,"Action, Science Fiction, Horror",neutral,neutral
+3595,"Science Fiction, Thriller, Horror",positive,positive
+4047,"Science Fiction, Thriller",positive,neutral
+3131,"Animation, Family, Comedy, Fantasy",positive,positive
+2664,"Adventure, Drama, Science Fiction",positive,positive
+3708,"Action, Drama",positive,positive
+711,"Action, Adventure, Science Fiction",neutral,neutral
+964,"Drama, Romance",negative,negative
+251,"Science Fiction, Action, Adventure",neutral,neutral
+2309,"Adventure, Action, Thriller",negative,negative
+2002,"Drama, Western",positive,positive
+4842,"Science Fiction, Action, Adventure",negative,negative
+2952,"Science Fiction, Action, Thriller",neutral,neutral
+122,"Science Fiction, Horror, Action",positive,positive
+1702,"War, Drama, Action",negative,neutral
+2725,"Music, Drama",negative,negative
+4149,"Animation, Family, Adventure, Drama, Comedy",neutral,positive
+1784,"Horror, Mystery, Thriller",neutral,neutral
+567,"Action, Adventure, Science Fiction",neutral,positive
+1427,"Drama, Thriller, Mystery",negative,negative
+3179,"Family, Comedy, Animation, Adventure",positive,positive
+1187,"Action, War, Thriller",neutral,neutral
+3793,"Mystery, Thriller, Drama",positive,positive
+1448,"Action, Adventure, Science Fiction",neutral,positive
+1874,"Action, Crime, Drama",negative,negative
+4669,"Drama, Science Fiction, Mystery",positive,positive
+4083,"Action, Adventure, Fantasy",negative,negative
+4515,"Action, Drama",neutral,negative
+2705,Comedy,neutral,neutral
+2016,"Drama, Thriller, Crime",neutral,positive
+1406,"Action, Thriller, Crime",positive,positive
+602,"Action, Science Fiction, Adventure",positive,neutral
+4885,"Horror, Mystery, Science Fiction",negative,negative
+4072,"Horror, Fantasy",negative,neutral
+4745,"Music, Comedy, Romance, Drama",positive,neutral
+4529,"Horror, Science Fiction, Mystery",negative,negative
+318,"Crime, Mystery, Thriller",negative,negative
+1595,"Drama, Romance",negative,negative
+1479,Comedy,positive,positive
+274,"Drama, History",negative,negative
+4679,"Action, Adventure, Science Fiction",neutral,positive
+549,Horror,negative,negative
+3655,"Horror, Mystery",positive,positive
+2228,"Horror, Thriller",negative,neutral
+4888,"Action, Science Fiction, Adventure",positive,positive
+4243,"Drama, Romance",neutral,neutral
+605,"Adventure, Action, Science Fiction",negative,negative
+4497,"Drama, Thriller",neutral,neutral
+527,"Adventure, Action, Fantasy",negative,positive
+2115,"Adventure, Family, Fantasy",positive,positive
+2342,Horror,negative,positive
+2407,"Adventure, Fantasy, Action",positive,positive
+3765,"Mystery, Thriller",positive,neutral
+4822,"Drama, Romance",positive,positive
+2331,"Crime, Thriller",negative,negative
+298,"Horror, Science Fiction",neutral,neutral
+1786,"Comedy, Romance",negative,negative
+2531,"Animation, Action, Romance, Fantasy",positive,positive
+2077,"Crime, Thriller, Western",positive,positive
+1432,"Action, Drama",negative,negative
+4145,"Adventure, Family, Drama",negative,negative
+4262,"Comedy, Crime, Mystery",positive,neutral
+1553,"Science Fiction, Adventure, Action",negative,negative
+3340,"Science Fiction, Drama",negative,negative
+3520,"Comedy, Family, Animation",negative,negative
+756,"Drama, War",negative,neutral
+2305,"Comedy, Drama",negative,negative
+4621,"Horror, Science Fiction, Action, Adventure",negative,negative
+4377,"Science Fiction, Drama, Adventure",positive,neutral
+4772,"Horror, Thriller",negative,negative
+1075,"Science Fiction, Action, Adventure",positive,positive
+1168,Comedy,negative,negative
+2699,Horror,neutral,neutral
+376,"Comedy, Romance",negative,negative
+996,"Thriller, Action, Fantasy",negative,neutral
+3859,"War, Action, Drama",negative,negative
+803,"Comedy, Crime, Mystery",positive,positive
+378,"Horror, Thriller, Science Fiction",neutral,neutral
+2859,"Action, Adventure, Fantasy",negative,negative
+3478,"Comedy, Horror",neutral,positive
+3113,"Action, Adventure, Science Fiction, Thriller",neutral,negative
+2755,"Science Fiction, Action, Adventure, Thriller",neutral,positive
+1321,"Drama, Romance, Fantasy",positive,neutral
+1878,"Thriller, Mystery",negative,negative
+2436,"Drama, Crime",positive,positive
+4368,"Action, Adventure, Science Fiction",negative,negative
+2280,"Fantasy, Adventure, Action",positive,positive
+994,"Adventure, Fantasy, Animation, Family",negative,negative
+2268,"Action, Adventure, Fantasy",neutral,negative
+2707,"Action, Thriller, Science Fiction",positive,positive
+2763,"Drama, History",neutral,negative
+3639,Thriller,neutral,neutral
+2543,"Comedy, Fantasy",neutral,neutral
+175,"Action, Comedy, Drama, Thriller",neutral,neutral
+2005,"Action, Adventure, Science Fiction",neutral,positive
+2223,"Action, Thriller, Crime",neutral,neutral
+45,"Action, Thriller, Crime",negative,neutral
+3919,"Comedy, Action, Science Fiction",negative,negative
+3937,"Romance, Comedy, Drama",neutral,neutral
+2107,"Animation, Family, Fantasy, Adventure, Comedy",neutral,neutral
+2823,"History, Drama",positive,neutral
+1499,Horror,neutral,negative
+4319,"Action, Science Fiction, Adventure",neutral,negative
+1351,Comedy,positive,positive
+2473,"Science Fiction, Adventure, Action",neutral,neutral
+1672,"Action, Drama, Science Fiction",neutral,neutral
+4993,"Crime, Drama",neutral,negative
+2422,"Action, Thriller, Science Fiction",positive,positive
+283,"Action, Crime, Fantasy",negative,negative
+1526,"Drama, Action, Thriller",negative,negative
+1420,"Science Fiction, Mystery, Adventure",positive,negative
+2316,"Action, Science Fiction, Adventure",neutral,neutral
+2850,"Drama, Western, Adventure",negative,negative
+2527,"Action, Thriller, Crime",positive,negative
+3934,"Action, Adventure, Comedy",positive,positive
+2067,"Thriller, Horror",negative,negative
+3801,"Family, Comedy, Animation, Fantasy",neutral,neutral
+3519,"Action, Adventure, Fantasy",negative,negative
+2688,"Romance, Horror",negative,positive
+3039,"Horror, Thriller, Drama",positive,positive
+1610,"Action, Comedy, Adventure",positive,positive
+2303,Horror,negative,negative
+2181,"Action, Adventure, Fantasy",negative,negative
+4556,Drama,positive,positive
+2520,"Action, Fantasy, Adventure",neutral,positive
+4883,"Science Fiction, Action",positive,positive
+3247,"Horror, Comedy",negative,negative
+2298,"Action, Adventure, Thriller",neutral,neutral
+2598,"Thriller, Drama, Crime",positive,positive
+4503,"Action, Adventure, Fantasy",positive,positive
+4437,"Science Fiction, Action, Adventure",positive,positive
+3027,"Animation, Family, Drama, Comedy, Action",positive,positive
+351,"Comedy, Thriller, Drama",positive,negative
+2726,"Fantasy, Drama, Crime",positive,positive
+1025,"Action, Adventure, Thriller, Science Fiction",neutral,negative
+859,"Comedy, Adventure, Science Fiction",negative,neutral
+2680,"Horror, Thriller",neutral,neutral
+718,"Science Fiction, Thriller",negative,negative
+2697,"Adventure, Action, Thriller, Fantasy",negative,negative
+1533,"Comedy, Family, Fantasy, Romance",neutral,neutral
+308,"Action, Adventure, Science Fiction",neutral,neutral
+1507,"Animation, Family, Comedy, Adventure, Fantasy",positive,positive
+833,"Adventure, Fantasy",positive,neutral
+366,"Family, Comedy, Animation, Fantasy",negative,negative
+4039,"Drama, Science Fiction, Mystery",positive,negative
+4890,"Science Fiction, Horror, Action",negative,negative
+2499,"Action, Comedy",neutral,neutral
+4141,"Science Fiction, Adventure, Action",negative,negative
+2535,"Animation, Comedy, Family",negative,negative
+1616,"Drama, Horror, Thriller",negative,negative
+19,"Action, Adventure, Science Fiction, Thriller",negative,negative
+1782,"Action, Adventure, Thriller",negative,negative
+1181,"Family, Animation, Science Fiction, Adventure",positive,positive
+4921,"Comedy, Crime, Drama",positive,positive
+218,"War, Drama",negative,negative
+1482,"Horror, Thriller",neutral,neutral
+438,"Drama, History, Crime, Thriller",negative,negative
+1747,"Horror, Mystery, Thriller",negative,negative
+4864,"Action, Adventure, Science Fiction",negative,negative
+3282,"Romance, Comedy, Drama",positive,positive
+3427,"Drama, Fantasy, Horror",positive,positive
+3729,"Family, Animation, Comedy, Fantasy, Adventure, Music",neutral,neutral
+4646,"Family, Comedy",negative,negative
+4507,"Comedy, Romance",positive,positive
+2758,"Action, Crime, Thriller",neutral,neutral
+802,"Action, Drama, History, War",negative,negative
+2991,"Action, Science Fiction",positive,positive
+4049,"Family, Comedy, Adventure, Animation",neutral,neutral
+3717,"Adventure, Action, Thriller",negative,negative
+4365,Thriller,positive,positive
+582,"Action, Adventure, Science Fiction",negative,negative
+203,"Action, Thriller",neutral,negative
+4035,"Action, Thriller, Crime",positive,positive
+3410,"Mystery, Crime, Thriller",negative,negative
+2245,"Adventure, Action, Science Fiction",neutral,neutral
+2426,Horror,neutral,negative
+1714,"Adventure, Action, Science Fiction",neutral,negative
+1578,Drama,negative,negative
+2146,"Family, Comedy",neutral,neutral
+915,"Action, Crime, Thriller",neutral,neutral
+4151,"Action, Adventure, Fantasy",neutral,neutral
+2751,"Adventure, Action",positive,positive
+3344,"Drama, Romance",negative,negative
+517,"Drama, Thriller",negative,negative
+1864,"Adventure, Action, Science Fiction",positive,positive
+3853,"Comedy, Drama, Thriller",positive,positive
+4295,"Action, Thriller, Crime",neutral,negative
+668,"Action, Thriller, Drama",positive,neutral
+4303,"Animation, Fantasy, Action, Adventure",neutral,neutral
+2722,"Comedy, Horror",negative,negative
+4907,"Science Fiction, Action, Adventure",positive,positive
+3433,"Action, Adventure, Science Fiction",neutral,neutral
+3153,"Drama, Romance",neutral,neutral
+3727,"Comedy, Drama, Romance",positive,positive
+2351,"Adventure, Science Fiction",negative,negative
+3771,"Drama, Mystery, Thriller",neutral,negative
+3336,"Crime, Mystery, Thriller",positive,positive
+3386,"Horror, Crime, Drama",negative,negative
+3745,"Action, Thriller, Crime",neutral,neutral
+759,"Action, Adventure, Comedy",neutral,neutral
+1871,"Science Fiction, Adventure, Action",neutral,negative
+2011,"Horror, Thriller",negative,negative
+1001,"Action, Adventure, Comedy, Crime, Science Fiction",neutral,neutral
+2727,"Animation, Drama, Adventure, Fantasy",neutral,neutral
+3914,"War, Drama, Action, History",negative,negative
+2378,"Action, Adventure, Fantasy",negative,negative
+214,"Comedy, Fantasy, Horror",neutral,neutral
+4133,"Horror, Mystery",neutral,negative
+1738,"Drama, Western",positive,neutral
+693,"Science Fiction, Thriller, Horror",positive,neutral
+3262,"Animation, Adventure, Fantasy, Family",positive,positive
+4656,"Science Fiction, Romance, Comedy",neutral,positive
+2114,"Science Fiction, Adventure, Action",positive,positive
+4240,Comedy,neutral,neutral
+2252,"Action, Comedy, Crime, Thriller",negative,negative
+1242,"Action, Thriller, Crime",neutral,neutral
+1670,"Drama, History",positive,neutral
+4752,"Animation, Science Fiction, Action",negative,negative
+196,"Animation, Romance, Drama",positive,positive
+2053,"Science Fiction, Action, Adventure",negative,negative
+1538,"Action, Adventure, Fantasy",neutral,neutral
+4055,"Romance, Thriller",neutral,neutral
+2470,"Action, Adventure, Science Fiction",negative,negative
+1212,Drama,neutral,neutral
+2073,"Action, Thriller, Crime",neutral,positive
+4857,"Adventure, Fantasy, Animation",positive,positive
+2748,"Fantasy, Comedy",negative,negative
+887,"Horror, Mystery, Crime",negative,negative
+1340,Drama,negative,negative
+68,"Action, Fantasy, Thriller",neutral,neutral
+4763,"Action, Crime",negative,negative
+568,"Family, Comedy, Adventure, Fantasy, Animation",neutral,negative
+3123,"Action, Crime, Thriller, Drama",negative,neutral
+96,"Family, Comedy, Animation, Adventure",neutral,neutral
+4013,"Science Fiction, Action, Adventure",neutral,positive
+1405,"Action, Adventure, Comedy",negative,neutral
+139,"Action, Comedy, Science Fiction",positive,positive
+1966,"Action, Adventure, Science Fiction",negative,negative
+4675,"Family, Comedy, Fantasy, Adventure",negative,negative
+4462,"Action, Science Fiction, Comedy",positive,positive
+1338,"Science Fiction, Adventure",positive,neutral
+3606,"Horror, Thriller",negative,negative
+3788,"Comedy, Thriller",neutral,neutral
+1534,"Horror, Thriller, Science Fiction",positive,positive
+2934,"Action, Adventure, Science Fiction",neutral,neutral
+2092,"War, Action, History",positive,positive
+463,"Action, Crime, Science Fiction, Thriller",negative,negative
+2441,"Action, Science Fiction, Thriller",neutral,negative
+3903,"Action, Thriller, Science Fiction",neutral,negative
+4087,"Drama, Romance",neutral,neutral
+594,"Science Fiction, Action, Adventure, Thriller",positive,positive
+2463,"Science Fiction, Action",neutral,neutral
+625,"Action, Adventure, Science Fiction",neutral,negative
+450,"Action, Crime, Thriller",neutral,positive
+3290,"Adventure, Action, Thriller",negative,negative
+3885,"Science Fiction, Adventure, Action",neutral,neutral
+2764,"Drama, Western",positive,positive
+1564,"Action, Thriller, Science Fiction",neutral,neutral
+1029,"Horror, Comedy",negative,negative
+3678,"Action, Crime, Drama, Thriller",positive,positive
+3804,Drama,neutral,neutral
+3618,"Action, Adventure, Science Fiction",negative,neutral
+2036,"Drama, Romance",negative,neutral
+150,"Adventure, Comedy, Fantasy, Family",neutral,neutral
+2715,"Science Fiction, Adventure, Action",neutral,neutral
+2045,"Action, Crime, Drama, Thriller",negative,negative
+3822,"Action, Comedy, Family, Science Fiction",negative,negative
+1456,"Horror, Drama",negative,negative
+88,"Action, Adventure, Fantasy",positive,neutral
+457,"Comedy, Science Fiction, Adventure",neutral,negative
+2860,"Drama, Fantasy, Thriller",negative,neutral
+4542,"Horror, Fantasy, Comedy",negative,negative
+3264,"Drama, Fantasy, Horror",positive,positive
+3221,"Action, Adventure, Drama",negative,negative
+3614,"Comedy, Crime",negative,negative
+2810,"Action, Crime, Thriller",negative,negative
+3742,"Music, Drama",negative,negative
+831,"Animation, Family, Fantasy",positive,positive
+239,"Action, Adventure, Western",negative,neutral
+4677,"Animation, Family, Comedy, Fantasy",positive,positive
+1424,"Family, Animation, Adventure, Comedy",neutral,neutral
+2377,"Action, Fantasy, Thriller",negative,negative
+2581,"Action, Thriller, Comedy",neutral,negative
+1545,"Science Fiction, Adventure, Action",neutral,neutral
+192,"History, Drama",neutral,neutral
+4663,"Fantasy, Thriller, Action, Adventure, Horror",negative,negative
+3836,"Adventure, Science Fiction, Action",positive,positive
+944,"Comedy, Adventure",positive,positive
+4361,"Horror, Thriller, Crime",positive,positive
+4228,"Action, Science Fiction, Adventure",positive,positive
+1919,"Horror, Action, Thriller",negative,negative
+4421,"Animation, Family, Adventure, Fantasy",positive,positive
+2628,"Fantasy, Adventure, Action",positive,positive
+3488,"Thriller, Mystery",negative,negative
+4085,"Drama, Science Fiction",neutral,negative
+4242,"Horror, Thriller",neutral,neutral
+3916,"Crime, Horror, Thriller",negative,negative
+3826,"Action, Thriller",neutral,neutral
+4603,"Music, Comedy, Romance, Family",negative,negative
+800,"Animation, Family, Comedy",negative,negative
+3972,"Action, Adventure, Science Fiction",negative,negative
+4190,"Action, Adventure, Science Fiction",positive,positive
+2922,"Action, Crime, Thriller",negative,negative
+3566,"Comedy, Adventure",neutral,negative
+2992,"Drama, Music",negative,negative
+2656,"Comedy, Thriller, Drama",negative,negative
+2964,"Action, Thriller, Crime",positive,positive
+1837,"Comedy, Fantasy, Horror",neutral,neutral
+4001,"Family, Fantasy, Adventure",neutral,negative
+3941,"Comedy, Adventure",positive,positive
+2757,"Thriller, Action, Fantasy",neutral,neutral
+4211,"Family, Fantasy",negative,negative
+4928,"Drama, Thriller, Horror",negative,neutral
+99,"Drama, Romance, History",positive,negative
+2484,"Horror, Science Fiction, Drama",positive,positive
+3576,"Adventure, Action, Science Fiction",negative,negative
+2509,"Comedy, Drama",positive,positive
+4038,"Action, Thriller, Crime",positive,neutral
+4912,"Action, Crime, Drama, Thriller",positive,neutral
+191,"Drama, Fantasy, Horror",positive,positive
+4296,"Science Fiction, Action, Adventure",negative,negative
+1675,"Romance, Drama",positive,positive
+3895,"Horror, Thriller",neutral,neutral
+879,"Horror, Thriller, Drama",neutral,neutral
+1961,"Action, Adventure, Science Fiction",positive,positive
+4439,"Action, Science Fiction, Thriller",neutral,neutral
+4112,"Drama, Crime, Thriller",negative,negative
+2837,"Drama, War",positive,positive
+2423,"Action, Adventure, Science Fiction",neutral,neutral
+2801,"Action, Crime, Drama, Thriller",positive,positive
+3018,"Animation, Family, Fantasy",positive,positive
+3624,"Action, Drama",positive,positive
+2124,"Action, Science Fiction, Thriller",neutral,positive
+1593,"War, Action, Drama",neutral,neutral
+1773,"Drama, Mystery, Thriller",neutral,negative
+2025,"Music, Drama",negative,negative
+1832,"Romance, Drama",negative,positive
+3392,"Comedy, Adventure",negative,neutral
+3968,"Adventure, Fantasy, Action",positive,neutral
+2232,"Animation, Family, Fantasy, Comedy",negative,negative
+166,"Action, Crime, Science Fiction",neutral,neutral
+3453,"Fantasy, Thriller, Action, Adventure, Horror",neutral,neutral
+2464,"Comedy, Fantasy, Horror",neutral,negative
+1024,"Adventure, Action, Science Fiction",negative,negative
+2683,"Adventure, Action, Science Fiction",negative,negative
+2242,"Comedy, Drama",neutral,positive
+4539,"Science Fiction, Action, Adventure",negative,negative
+4697,"Family, Comedy, Animation, Science Fiction, Action",neutral,neutral
+1057,"Adventure, Action, Fantasy",neutral,neutral
+4579,Drama,positive,positive
+2954,"Action, Adventure, Science Fiction",positive,positive
+152,"Adventure, Science Fiction, Action",neutral,neutral
+3795,Horror,neutral,negative
+4684,"Family, Animation, Music, Adventure",positive,positive
+1971,"Drama, Western",negative,negative
+3958,"History, War, Romance",neutral,neutral
+4881,"Action, Thriller, Science Fiction",neutral,neutral
+3257,"Action, Adventure, Science Fiction",neutral,negative
+2857,"Adventure, Fantasy, Action",negative,negative
+2654,"Horror, Mystery",neutral,neutral
+4818,"Adventure, Fantasy, Action",positive,positive
+3017,"Drama, Comedy",positive,positive
+3720,"Crime, Thriller, Western",positive,positive
+31,"Animation, Family, Fantasy",positive,neutral
+937,"Crime, Mystery, Thriller",positive,positive
+1210,"Drama, Thriller, Crime",negative,negative
+4251,"Fantasy, Adventure",neutral,negative
+2596,"Drama, Romance",neutral,neutral
+309,"Action, Thriller",neutral,neutral
+4430,"Drama, Science Fiction, Comedy",negative,neutral
+4324,"Adventure, Action, Science Fiction",neutral,neutral
+3107,"Action, Science Fiction, Adventure",positive,positive
+495,"Thriller, Action, Adventure, Science Fiction",neutral,neutral
+205,"Animation, Family, Comedy",positive,positive
+3570,"Action, Crime",neutral,neutral
+3351,"Drama, History, War",positive,positive
+4528,"Science Fiction, Action, Adventure, Thriller, Drama",negative,negative
+305,"Adventure, Action, Thriller",negative,negative
+3786,"Action, Adventure, Fantasy",positive,neutral
+1777,"Drama, Crime, Music",negative,negative
+1061,"Action, Thriller, Science Fiction",positive,positive
+843,"Action, Adventure, Crime",negative,neutral
+4703,"Action, Adventure, Horror, Thriller",neutral,neutral
+3998,"Comedy, Horror",neutral,negative
+211,"Horror, Thriller",neutral,neutral
+4472,"Action, Adventure, Science Fiction",negative,neutral
+679,"Horror, Mystery",negative,neutral
+565,"Horror, Thriller",neutral,neutral
+2445,"Action, Adventure, Science Fiction",positive,positive
+3573,"Action, Adventure, Science Fiction",positive,neutral
+680,"Horror, Comedy",positive,neutral
+180,"Action, Adventure, Fantasy",neutral,positive
+2655,"Action, Adventure, Fantasy, Horror, Science Fiction, Thriller",negative,negative
+3807,Thriller,positive,positive
+2311,"Horror, Science Fiction, Thriller",neutral,positive
+4270,"Thriller, Crime, Mystery",negative,negative
+278,"Animation, Adventure, Family, Comedy",positive,positive
+3988,"Horror, Mystery",negative,negative
+1272,"Action, Thriller, Crime",positive,positive
+432,"Science Fiction, Adventure, Action",neutral,neutral
+289,"Thriller, Science Fiction, Horror",negative,negative
+1027,"Action, Comedy, Family",neutral,neutral
+535,"Family, Comedy, Adventure, Animation, Action",negative,negative
+3424,Drama,positive,positive
+188,"Comedy, Crime, Mystery",positive,positive
+2170,"Action, Thriller, Science Fiction",negative,positive
+3908,Western,positive,positive
+1741,Horror,neutral,negative
+270,"Thriller, Action, Crime",neutral,neutral
+3012,"Action, Science Fiction",negative,neutral
+4068,"Music, Comedy",negative,negative
+2153,"Comedy, Science Fiction, Drama",positive,neutral
+3689,"Action, Adventure, Science Fiction",positive,positive
+111,"Family, Fantasy, Adventure",neutral,positive
+1894,"Romance, Fantasy, Drama",negative,negative
+220,"Action, Horror, Thriller",negative,negative
+627,"Adventure, Fantasy, Action",positive,positive
+4748,"Romance, Horror, Comedy, Thriller",negative,negative
+3350,"Action, Science Fiction, Adventure",positive,neutral
+2417,"Fantasy, Adventure, Family",negative,negative
+790,"Drama, War, History",negative,negative
+4321,"Horror, Thriller",neutral,negative
+461,"Action, Thriller, Drama",neutral,neutral
+4399,"Drama, Romance, Fantasy",positive,neutral
+551,"Animation, Adventure, Comedy, Family",neutral,neutral
+1135,"Action, Crime, Drama, Thriller",positive,positive
+2354,"Action, Fantasy",neutral,neutral
+198,"Horror, Thriller",positive,positive
+2584,"Animation, Drama, Adventure, Fantasy",neutral,neutral
+402,"Family, Fantasy",positive,positive
+3048,"Horror, Science Fiction",positive,negative
+2939,"Action, Adventure, Drama",neutral,neutral
+4759,"Adventure, Drama, Science Fiction",positive,positive
+3450,"Horror, Thriller, Science Fiction",neutral,neutral
+1662,"Action, Thriller, Crime",negative,neutral
+4459,"Action, Adventure, Comedy",positive,neutral
+650,"Drama, Comedy, Romance",negative,neutral
+708,"Action, Thriller, Drama",negative,positive
+4256,"Thriller, Science Fiction, Horror",neutral,neutral
+4411,Comedy,negative,negative
+1437,"Thriller, Crime, Comedy",positive,positive
+1822,"Crime, Drama",negative,negative
+2927,"History, War, Romance",neutral,neutral
+314,"Horror, Mystery",neutral,neutral
+1360,"Action, Crime, Drama, Thriller",positive,positive
+4471,"Action, Adventure",negative,neutral
+113,"Animation, Comedy, Family",positive,positive
+960,"Comedy, Adventure",positive,positive
+4977,"Comedy, Romance",neutral,neutral
+3308,"Science Fiction, Adventure, Action",neutral,neutral
+1617,"Action, Adventure, Thriller",positive,positive
+3316,"Adventure, Action, Science Fiction",negative,negative
+4995,"Action, Drama, Adventure",positive,positive
+1569,"Science Fiction, Adventure, Drama",neutral,positive
+3188,"Horror, Mystery",positive,positive
+1703,"Action, Thriller, Crime",negative,negative
+3408,"Animation, Family, Fantasy",negative,neutral
+4525,"Animation, Family, Adventure, Drama, Comedy",positive,positive
+2856,"Family, Romance, Comedy",negative,negative
+1912,"Action, Horror, Comedy",neutral,positive
+3412,"Adventure, Action, Science Fiction",positive,positive
+4026,"Romance, Science Fiction, Thriller",positive,positive
+2607,"Mystery, Thriller, Crime",negative,neutral
+4331,"Comedy, Fantasy, Family, Horror",negative,negative
+3010,"Adventure, Action, Science Fiction",positive,positive
+2574,"Adventure, Family, Fantasy",negative,negative
+1807,"Action, Comedy",negative,negative
+4855,"Drama, Mystery, Western",neutral,negative
+2855,Drama,negative,negative
+3319,"Thriller, Crime, Comedy",positive,neutral
+1421,"Drama, Thriller, Mystery",positive,positive
+1620,"Action, Adventure, Science Fiction",neutral,neutral
+789,"Action, Crime",negative,negative
+4318,"Adventure, Action, Science Fiction",neutral,negative
+3688,"Comedy, Drama",negative,negative
+1489,"Action, Adventure, Science Fiction",positive,positive
+871,"Science Fiction, Action, Thriller",neutral,negative
+1705,"Horror, Thriller",neutral,positive
+1322,"Adventure, Science Fiction, Action",positive,positive
+73,Drama,positive,positive
+1746,"Action, Adventure, Science Fiction",positive,positive
+2409,"History, Drama, Thriller, War",positive,positive
+2119,"Adventure, Action, Fantasy",neutral,positive
+3957,"Horror, Thriller",neutral,neutral
+3539,"Comedy, Drama",neutral,neutral
+4572,"Mystery, Thriller, Drama",positive,positive
+3802,"Adventure, Action, Science Fiction",positive,positive
+2240,"Drama, Romance",negative,negative
+4315,"Thriller, Horror",neutral,neutral
+1718,"Action, Thriller, Crime, Mystery, Science Fiction",negative,negative
+494,"Action, Thriller",negative,negative
+4654,"Comedy, Romance",neutral,neutral
+2518,"Family, Fantasy, Romance",neutral,neutral
+3848,"Horror, Thriller",neutral,neutral
+1164,Drama,negative,positive
+4116,"Horror, Thriller",negative,positive
+2440,"Horror, Mystery",negative,negative
+1876,"Action, Drama, Science Fiction",positive,positive
+3855,"Drama, Thriller, Crime",neutral,negative
+3265,"Mystery, Thriller",neutral,negative
+618,"Drama, Fantasy, Horror",positive,neutral
+2254,"Action, Comedy, Adventure",neutral,negative
+4481,"Action, Thriller, Science Fiction",neutral,neutral
+1600,"Drama, Crime, Thriller",neutral,neutral
+1743,"Action, Science Fiction, Comedy",positive,positive
+2226,"Fantasy, Action, Horror",neutral,neutral
+3404,"Action, Mystery, Science Fiction, Thriller",positive,neutral
+869,"Romance, Horror, Comedy, Thriller",negative,negative
+3865,"Drama, Romance, History",negative,neutral
+1042,"Drama, Crime",positive,positive
+4051,"Horror, Thriller",neutral,neutral
+356,"Horror, Thriller",neutral,neutral
+1162,"Action, Thriller, Adventure",neutral,neutral
+3770,"Comedy, Crime, Action",neutral,neutral
+1739,"Comedy, Drama, Romance",positive,positive
+2439,Horror,neutral,neutral
+1543,"Adventure, Fantasy",positive,positive
+4366,"Drama, Action",neutral,neutral
+3540,"Drama, Fantasy, Horror",positive,positive
+3633,"Action, Drama",positive,positive
+4453,"Action, Adventure, Crime",negative,negative
+2842,"Animation, Family, Mystery, Adventure, Comedy",positive,positive
+332,"Adventure, Animation, Family, Comedy, Fantasy",negative,positive
+2718,"Adventure, Action, Science Fiction",neutral,neutral
+4894,"Action, Adventure, Science Fiction",neutral,neutral
+2534,"Drama, Romance, Comedy",negative,negative
+3661,"Science Fiction, Mystery, Thriller, Romance",negative,negative
+3129,"Drama, Thriller, War",negative,negative
+1116,"Drama, Music, Thriller",neutral,positive
+4796,"Action, Adventure, Science Fiction",neutral,positive
+3548,"Animation, Family, Science Fiction, Comedy, Adventure",positive,positive
+2462,"Action, Crime, Thriller, Western",negative,negative
+3259,"Romance, Drama",negative,negative
+1551,"Horror, Thriller",neutral,neutral
+445,"Adventure, Drama, Science Fiction",positive,positive
+3245,"Animation, Family, Fantasy, Adventure, Comedy, Romance",neutral,neutral
+452,"Comedy, Drama, Thriller",positive,neutral
+4215,"Crime, Mystery, Thriller",negative,negative
+4431,"Thriller, Drama, Romance",positive,positive
+2948,"Adventure, Action, Thriller",negative,negative
+14,"Animation, Family, Science Fiction",positive,positive
+2619,"Action, Adventure, Science Fiction",positive,positive
+945,"Action, Adventure, Science Fiction",negative,neutral
+247,"Adventure, Action, Western",neutral,neutral
+3603,"Action, Crime, Thriller",neutral,neutral
+360,"Drama, Romance",negative,negative
+4652,"Science Fiction, Adventure, Fantasy",positive,neutral
+3225,"Adventure, Action, Thriller, Mystery",neutral,neutral
+2299,"Science Fiction, Action, Adventure",neutral,neutral
+3080,"Horror, Thriller",positive,positive
+3162,"Fantasy, Music, Comedy, Animation",positive,negative
+4611,"Fantasy, Horror, Action",negative,negative
+3484,"Action, Adventure, Science Fiction",negative,neutral
+2321,"Science Fiction, Adventure",negative,negative
+4880,"Science Fiction, Adventure",positive,positive
+2846,"Crime, Drama, Action",positive,positive
+490,"Action, Adventure, Fantasy",positive,neutral
+862,"Thriller, Crime, Comedy",positive,neutral
